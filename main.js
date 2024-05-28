@@ -1,3 +1,6 @@
+// // задание 1 
+// alert('Я JavaScript!')
+
 // задание 2
 // let name; 
 // let admin;
@@ -48,7 +51,7 @@
 
 
 // задание 9
-// if ("0") {
+// if ("0") { 
 //     alert( 'Привет' );
 //   }
 
@@ -170,4 +173,104 @@
 //   alert("Отменено");
 // } else {
 //   alert("Я вас не знаю");
+// }
+
+// Задание 24 (1)
+// function add(a,b) {
+//     return a + b;
+//     }
+// alert(add(2,3))
+
+
+// function add(a,b) {
+//     return a - b;
+//     }
+// alert(add(2,3))
+
+// function add(a,b) {
+//     return a ** b;
+//     }
+// alert(add(2,3))
+
+// Задание 25 (2)
+
+// function add(a){
+//     return a.length 
+// }
+// alert(add(' орви аотиекпрпум'))
+
+// задание  26 (3)
+
+// let n = prompt('число', '');
+// if (n > 0) {
+//     alert("положительное")
+ 
+// } else if (n < 0) {
+//     alert('Отрицатедьное')
+//  ;
+// }
+//  else {
+//     alert("ровно нулю")
+//   ;
+// }
+
+// задание 27 (4)
+
+// let n = Number(prompt(' первое число', ''));
+
+// let x =  Number(prompt(' dnjhjt число', ''));
+
+// let b =  Number(prompt(' nhtnmt число', ''));
+
+// let a =  Number(prompt(' xtndthnjt число', ''));
+
+// function add(n,x,b,a){
+//     return (n+b+x+a)/2
+// }
+// alert(add(n,x,b,a))
+
+// задание 28 (5)
+
+// const uydgyrgfrygf={
+//     name:"dcug",
+//     age: 29
+// }
+// console.log(uydgyrgfrygf.name)
+// console.log(uydgyrgfrygf.age)
+
+// Задание 29 (6)
+
+// let n = prompt('число',);
+// if (n%2 == 0){
+// alert("четное число")
+// }
+// else{
+// ("нечетное ")
+
+// }
+
+// задание 30 (7)
+
+// let n = prompt('число', '');
+// if (n > 0) {
+//     alert("положительное")
+ 
+// } else if (n < 0) {
+//     alert('Отрицатедьное')
+//  ;
+// }
+//  else {
+//     alert("ровно нулю")
+//   ;
+// }
+
+// // задание 31 (8)
+
+// let n = prompt('число');
+// let d = prompt('число');
+// if (n%d == 0){
+// alert("четное число")
+// }
+// else{
+// ("нечетное ")
 // }
